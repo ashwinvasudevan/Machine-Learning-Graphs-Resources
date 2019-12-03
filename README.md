@@ -20,7 +20,12 @@
 
 ## Demo code
 1. https://github.com/rusty1s/pytorch_geometric/tree/master/examples
+2. https://github.com/williamleif/graphsage-simple/blob/master/graphsage/
 
 ## Tutorials
 1. https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3
 2. https://towardsdatascience.com/hands-on-graph-neural-networks-with-pytorch-pytorch-geometric-359487e221a8
+
+## Papers
+1. https://arxiv.org/pdf/1707.03815.pdf
+2. 
